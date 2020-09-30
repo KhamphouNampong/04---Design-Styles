@@ -117,7 +117,7 @@ footer {
   <a href="https://www.hawaiianbarbecue.com/"><img src= "ll.png" width="400">
  
   <li><h3><a href="https://www.leonardshawaii.com/home/#">Proximity</h3></li>
-  <a href="https://www.leonardshawaii.com/home/#"><img src= "leanards.png" width="400">
+  <a href="https://www.leonardshawaii.com/home/#"><img src= "https://github.com/KhamphouNampong/04---Design-Styles/blob/master/leanards.PNG" width="400">
 </ol>
 
   </article>
