@@ -108,13 +108,13 @@ footer {
 
   <ol>
     <li><h3><a href="https://www.webmasterserviceshawaii.com/">Contrast</h3></li>
-  <a href="https://www.webmasterserviceshawaii.com/"><img src= "webmaster.png"  width="400">
+  <a href="https://www.webmasterserviceshawaii.com/"><img src= "https://github.com/KhamphouNampong/04---Design-Styles/blob/master/webmaster.PNG"  width="400">
 
   <li><h3><a href="https://wikiwikiexpress.com/">Repetition</h3></li>
-  <a href="https://wikiwikiexpress.com/"><img src= "wiki.png" width="400">
+  <a href="https://wikiwikiexpress.com/"><img src= "https://github.com/KhamphouNampong/04---Design-Styles/blob/master/wiki.PNG" width="400">
   
   <li><h3><a href="https://www.hawaiianbarbecue.com/">Alignment</h3></li>
-  <a href="https://www.hawaiianbarbecue.com/"><img src= "ll.png" width="400">
+  <a href="https://www.hawaiianbarbecue.com/"><img src= "https://github.com/KhamphouNampong/04---Design-Styles/blob/master/ll.PNG" width="400">
  
   <li><h3><a href="https://www.leonardshawaii.com/home/#">Proximity</h3></li>
   <a href="https://www.leonardshawaii.com/home/#"><img src= "https://github.com/KhamphouNampong/04---Design-Styles/blob/master/leanards.PNG" width="400">
